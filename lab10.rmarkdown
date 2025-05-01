@@ -408,7 +408,11 @@ ggplot() +
 
 ```
 
+
+
 #Question 4: Based on the code below there are 8,638 cities within the 100 miles of the national border. There is also a total population of 207,764,429 within the 100 miles of the border. The percentage of the total city populatio in this zone is 51.64%. Based on the article, my numbers are slightly greater than the article becuase the article says "about 200 million people". However is also says 2/3 Americas population lives within the 100 mile range which is greater than 51.64%. So my conclusion is that one of our numbers does not make sense because the my data and the data from the article contridict each other.
+
+
 
 ```{r}
 
@@ -494,3 +498,4 @@ ggplot() +
 
 
 ```
+
