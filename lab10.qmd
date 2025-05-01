@@ -1,10 +1,8 @@
 ---
-title: "lab 10"
-subtitle: 'Ecosystem Science and Sustainability 523c'
-author:
-  - name: ...
-    email: ...
-format: html
+title: 'Lab 10'
+format: 
+  html:
+    self-contained: true
 ---
 
 ```{r}
